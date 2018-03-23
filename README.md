@@ -1,6 +1,8 @@
 # TwitterToDiscord
 
 
+nugetでCoreTweet,Newtonsoft.Json,Discord.NETをダウンロードする  
+
 https://apps.twitter.com/ でApplicationを作成  
  
 ConsumerKeyを14行目の `TwitterApplicationのConsumerKey` と置き換え  
