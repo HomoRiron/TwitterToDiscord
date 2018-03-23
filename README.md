@@ -2,9 +2,9 @@
 
 
 https://apps.twitter.com/ でApplicationを作成
-
-ConsumerKeyを14行目の `TwitterApplicationのConsumerKey` と置き換え 
-ConsumerSecretを15行目の `TwitterApplicationのConsumerSecret` と置き換える
+ 
+ConsumerKeyを14行目の `TwitterApplicationのConsumerKey` と置き換え  
+ConsumerSecretを15行目の `TwitterApplicationのConsumerSecret` と置き換える 
 
 https://discordapp.com/developers/applications/me からAppを作成
 
